@@ -5,7 +5,7 @@ I'm a **Backend Developer** focused on building scalable APIs, integrating Machi
 ### 🛠️ Tech Stack
 
 - **Languages:** Python (Expert), JavaScript (Intermediate), SQL.
-- **Backend:** Django, Django REST Framework, Fast API.
+- **Backend:** Django, Django REST Framework, FastAPI.
 - **AI/ML:** Sentence Transformers, Vector Embeddings (pgvector), NLP.
 - **Database:** PostgreSQL, SQLite, Redis.
 - **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD), GitFlow.
@@ -14,10 +14,11 @@ I'm a **Backend Developer** focused on building scalable APIs, integrating Machi
 
 ### 🚀 Featured Projects
 
-#### [AI-Powered Product Recommender](https://github.com/Jorgedosaa/product-recommender-api)
-A semantic search engine using **NLP** and **pgvector**.
-- **Challenge:** Optimizing ML models for CPU-only inference.
-- **Key Tech:** Django, Transformers, Docker, pgvector.
+#### [AI-Powered Product Recommender & API](https://github.com/Jorgedosaa/product-recommender-api)
+A high-performance REST API providing semantic search and intelligent recommendations using NLP and vector databases.
+- **Challenge:** Implementing a scalable asynchronous architecture to handle high-dimensional vector generation without blocking the main API thread.
+- **Key Tech:** Django, pgvector, Sentence Transformers, Celery, Redis, Docker.
+- **Key Achievement:** Built a full CI/CD pipeline with GitHub Actions, achieving 100% test coverage for semantic logic and API endpoints.
 
 #### [Restaurant Availability API](https://github.com/Jorgedosaa/restaurant-availability-api)
 A robust system for managing restaurant bookings and real-time availability.
@@ -38,5 +39,5 @@ A professional authentication service with a focus on security and testing.
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** 
-- **Portfolio:** 
+- **LinkedIn:** [Tu Enlace Aquí]
+- **Portfolio:** [Tu Enlace Aquí]
