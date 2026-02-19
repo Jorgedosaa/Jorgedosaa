@@ -1,43 +1,60 @@
 # Hi there, I'm Jorge! 👋
 
-I'm a **Backend Developer** focused on building scalable APIs, integrating Machine Learning, and mastering DevOps workflows. I enjoy solving complex problems with clean, maintainable code.
+I'm a **Backend Developer** specialized in building scalable APIs and integrating Machine Learning into production environments. My approach focuses on **Clean Architecture**, **Test-Driven Development (TDD)**, and robust **DevOps** automation.
+
+---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python (Expert), JavaScript (Intermediate), SQL.
-- **Backend:** Django, Django REST Framework, FastAPI.
-- **AI/ML:** Sentence Transformers, Vector Embeddings (pgvector), NLP.
-- **Database:** PostgreSQL, SQLite, Redis.
-- **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD), GitFlow.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), SQL, JavaScript |
+| **Backend** | Django, Django REST Framework, FastAPI |
+| **AI/ML** | Sentence Transformers, Vector Embeddings (pgvector), NLP |
+| **Database** | PostgreSQL (Expert), Redis, SQLite |
+| **DevOps** | Docker, GitHub Actions (CI/CD), Linux, GitFlow |
+
+---
+
+### 🌟 Open Source Contributions
+
+#### [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+* **Contribution:** Optimized Developer Experience (DX) by implementing **GitHub Copilot specialized instructions**.
+* **Impact:** Improved AI code generation accuracy for 10k+ users by defining Jinja2/Django template context rules.
+* **Stack:** Python, Jinja2, Documentation-as-Code.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [AI-Powered Product Recommender & API](https://github.com/Jorgedosaa/product-recommender-api)
-A high-performance REST API providing semantic search and intelligent recommendations using NLP and vector databases.
-- **Challenge:** Implementing a scalable asynchronous architecture to handle high-dimensional vector generation without blocking the main API thread.
-- **Key Tech:** Django, pgvector, Sentence Transformers, Celery, Redis, Docker.
-- **Key Achievement:** Built a full CI/CD pipeline with GitHub Actions, achieving 100% test coverage for semantic logic and API endpoints.
+#### [AI-Powered Product Recommender](https://github.com/Jorgedosaa/product-recommender-api)
+High-performance REST API with semantic search and vector-based recommendations.
+- **The Challenge:** Handling high-dimensional vector generation asynchronously to maintain low latency.
+- **Key Stack:** Django, **pgvector**, Celery, Redis, Docker.
+- **Highlight:** Achieved 100% test coverage and automated deployment via CI/CD.
 
 #### [Restaurant Availability API](https://github.com/Jorgedosaa/restaurant-availability-api)
-A robust system for managing restaurant bookings and real-time availability.
-- **Challenge:** Complex capacity logic and slot management.
-- **Key Tech:** Django, Pattern Design (Facade), PostgreSQL.
+Real-time booking system with complex capacity management.
+- **The Challenge:** Solving race conditions in slot allocation using atomic transactions.
+- **Design Pattern:** Implemented the **Facade Pattern** to decouple business logic from API views.
 
 #### [Advanced Auth API](https://github.com/Jorgedosaa/auth_api)
-A professional authentication service with a focus on security and testing.
-- **Challenge:** Implementing 90%+ test coverage and JWT security.
-- **Key Tech:** DRF, Pytest, CI/CD with GitHub Actions.
+Professional-grade security service.
+- **The Challenge:** Designing a secure JWT rotation system with strict 90%+ test coverage.
+- **Key Tech:** DRF, Pytest, GitHub Actions.
 
 ---
 
-### 📊 GitHub Stats
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgedosaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgedosaa&layout=compact&theme=radical)
+### 📊 Impact & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgedosaa&show_icons=true&theme=radical&rank_icon=github" alt="Jorge's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgedosaa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 How to reach me
-- **LinkedIn:** [Tu Enlace Aquí]
-- **Portfolio:** [Tu Enlace Aquí]
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Portfolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
+- **Email:** jorge@example.com
