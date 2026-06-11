@@ -56,5 +56,5 @@ Professional-grade security service.
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- **Portfolio:** [jorge-dev-stack.vercel.app/](https://https://jorge-dev-stack.vercel.app/)
+- **Portfolio:** [jorge-dev-stack.vercel.app](https://jorge-dev-stack.vercel.app)
 - **Email:** jorgeanjosaa@gmail.com
